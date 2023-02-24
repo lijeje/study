@@ -160,7 +160,7 @@
 
     ![EBAC882D-AFC8-40BC-AE8F-5928F894F609.jpeg](IMG%2FEBAC882D-AFC8-40BC-AE8F-5928F894F609.jpeg)
     
-- 어드바이스와 어드바이저
+- 어드바이스와                                                                                                                      어드바이저
     - 어드바이저를 이용하는 자동프록시 생성기 등록을 통해 DefaultAdvisorAutoProxyCreator에 의해 자동수집되고 프록시 대상 선정과정에 참여하며,  자동생성된 프록시에 의해 다이나믹하게 DI됨.
 - ProxyFactoryBean제거와 서비스 빈의  원상복구
 
@@ -177,7 +177,7 @@
     ![04B6FD0E-30F6-4767-B8E0-95C11EC4057A.jpeg](IMG%2F04B6FD0E-30F6-4767-B8E0-95C11EC4057A.jpeg)
     
 - 자동프록시 확인
-
+ 
 ### 포인트컷 표현식을 이용한 포인트컷
 
 - AspectJExpressionPointcut클래스 사용
